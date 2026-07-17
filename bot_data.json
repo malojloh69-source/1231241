@@ -1,62 +1,17 @@
 {
-  "deals": {
-    "FP-126917": {
-      "ui_chat_id": 8756464110,
-      "ui_message_id": 205,
-      "ui_has_photo": true,
-      "game": "Roblox",
-      "payment": "Банковская карта",
-      "currency": "RUB",
-      "description": "вац",
-      "amount": "1234",
-      "seller_id": 8756464110,
-      "seller_username": "clezzy_official",
-      "status": "cancelled",
-      "buyer_id": 8256210424,
-      "buyer_username": "Harmony1158",
-      "cancelled_by": 8756464110
-    },
-    "FP-234817": {
-      "ui_chat_id": 8756464110,
-      "ui_message_id": 216,
-      "ui_has_photo": true,
-      "game": "Clash of Clans",
-      "payment": "Банковская карта",
-      "currency": "USD",
-      "description": "42342",
-      "amount": "44534",
-      "seller_id": 8756464110,
-      "seller_username": "clezzy_official",
-      "status": "cancelled",
-      "buyer_id": 8256210424,
-      "buyer_username": "Harmony1158",
-      "payment_from_unlimited": true,
-      "balance_debited": false,
-      "refunded": true,
-      "cancelled_by": 8756464110
-    }
-  },
+  "deals": {},
   "profiles": {
     "8756464110": {
       "username": "clezzy_official",
       "balances": {},
       "successful_deals": 0,
-      "requisites": {
-        "card": "1234 5678 9012 3456"
-      },
-      "used_promocodes": [],
-      "language": "ru",
-      "language_selected": true
-    },
-    "8256210424": {
-      "username": "Harmony1158",
-      "balances": {},
-      "successful_deals": 0,
       "requisites": {},
       "used_promocodes": [],
       "language": "ru",
-      "language_selected": false,
-      "test_unlimited": true
+      "language_selected": true,
+      "referrer_id": null,
+      "referrals": [],
+      "referral_earnings_ton": "0"
     }
   },
   "promocodes": {},
